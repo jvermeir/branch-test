@@ -1,6 +1,0 @@
-1st file 
-2nd change, made on develop branch
-3rd change, made on develop branch
-
-change for feature-001
-change made for feature-002
